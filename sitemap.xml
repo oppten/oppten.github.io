@@ -4,70 +4,70 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://blog.oppten.com/index.html</loc>
-<lastmod>2014-05-05T10:12:42-00:00</lastmod>
+<loc>/index.html</loc>
+<lastmod>2014-05-05T11:51:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.oppten.com/archives.html</loc>
-<lastmod>2014-05-05T10:12:42-00:00</lastmod>
+<loc>/archives.html</loc>
+<lastmod>2014-05-05T11:51:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.oppten.com/tags.html</loc>
-<lastmod>2014-05-05T10:12:42-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2014-05-05T11:51:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.oppten.com/categories.html</loc>
-<lastmod>2014-05-05T10:12:42-00:00</lastmod>
+<loc>/categories.html</loc>
+<lastmod>2014-05-05T11:51:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.oppten.com/uber-en-colombia.html</loc>
+<loc>/uber-en-colombia.html</loc>
 <lastmod>2014-05-05T09:36:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.oppten.com/presentacion.html</loc>
+<loc>/presentacion.html</loc>
 <lastmod>2014-04-30T23:20:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.oppten.com/category/opinion.html</loc>
+<loc>/category/opinion.html</loc>
 <lastmod>2014-05-05T09:36:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.oppten.com/tag/oppten.html</loc>
+<loc>/tag/oppten.html</loc>
 <lastmod>2014-04-30T23:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.oppten.com/tag/aseco.html</loc>
+<loc>/tag/aseco.html</loc>
 <lastmod>2014-05-05T09:36:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.oppten.com/author/nicolas-bohorquez.html</loc>
+<loc>/author/nicolas-bohorquez.html</loc>
 <lastmod>2014-05-05T09:36:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
