@@ -5,34 +5,48 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.oppten.com/index.html</loc>
-<lastmod>2014-05-22T15:13:35-00:00</lastmod>
+<lastmod>2014-05-22T17:22:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/archives.html</loc>
-<lastmod>2014-05-22T15:13:35-00:00</lastmod>
+<lastmod>2014-05-22T17:22:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/tags.html</loc>
-<lastmod>2014-05-22T15:13:35-00:00</lastmod>
+<lastmod>2014-05-22T17:22:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/categories.html</loc>
-<lastmod>2014-05-22T15:13:35-00:00</lastmod>
+<lastmod>2014-05-22T17:22:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/compras-publicas-chile-2013.html</loc>
+<lastmod>2014-05-21T17:12:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.oppten.com/compras-publicas-colombia-2013.html</loc>
+<lastmod>2014-05-21T17:12:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.oppten.com/compras-publicas-peru-2013.html</loc>
 <lastmod>2014-05-21T17:12:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -67,6 +81,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://blog.oppten.com/category/colombia.html</loc>
+<lastmod>2014-05-21T17:12:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://blog.oppten.com/category/mexico.html</loc>
 <lastmod>2014-05-21T16:36:00-00:00</lastmod>
 <changefreq>daily</changefreq>
@@ -74,7 +95,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.oppten.com/category/opinion.html</loc>
+<loc>http://blog.oppten.com/category/peru.html</loc>
+<lastmod>2014-05-21T17:12:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.oppten.com/category/points.html</loc>
 <lastmod>2014-05-05T09:36:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
