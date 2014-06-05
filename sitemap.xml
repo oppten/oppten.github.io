@@ -5,56 +5,56 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.oppten.com/index.html</loc>
-<lastmod>2014-06-04T13:45:11-00:00</lastmod>
+<lastmod>2014-06-05T01:25:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/archives.html</loc>
-<lastmod>2014-06-04T13:45:11-00:00</lastmod>
+<lastmod>2014-06-05T01:25:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/tags.html</loc>
-<lastmod>2014-06-04T13:45:11-00:00</lastmod>
+<lastmod>2014-06-05T01:25:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/categories.html</loc>
-<lastmod>2014-06-04T13:45:11-00:00</lastmod>
+<lastmod>2014-06-05T01:25:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.oppten.com/indicadores-oppten-mayo.html</loc>
-<lastmod>2014-06-01T11:36:00-00:00</lastmod>
+<loc>http://blog.oppten.com/indicadores-mayo-2014.html</loc>
+<lastmod>2014-06-01T15:14:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.oppten.com/noticias-oppten-mayo.html</loc>
-<lastmod>2014-06-01T11:36:00-00:00</lastmod>
+<loc>http://blog.oppten.com/resumen-mayo-2014.html</loc>
+<lastmod>2014-06-01T15:14:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/toppten-semana-22-2014.html</loc>
-<lastmod>2014-05-30T12:22:00-00:00</lastmod>
+<lastmod>2014-05-30T18:15:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/toppten-semana-21-2014.html</loc>
-<lastmod>2014-05-23T15:22:00-00:00</lastmod>
+<lastmod>2014-05-23T18:12:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -88,7 +88,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.oppten.com/presentacion.html</loc>
+<loc>http://blog.oppten.com/presentación.html</loc>
 <lastmod>2014-04-30T23:20:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -124,70 +124,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.oppten.com/category/points.html</loc>
-<lastmod>2014-06-01T11:36:00-00:00</lastmod>
+<lastmod>2014-06-01T15:14:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/tag/indicadores.html</loc>
-<lastmod>2014-06-01T11:36:00-00:00</lastmod>
+<lastmod>2014-06-01T15:14:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/tag/toppten.html</loc>
-<lastmod>2014-05-30T12:22:00-00:00</lastmod>
+<lastmod>2014-05-30T18:15:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/tag/resumen.html</loc>
-<lastmod>2014-05-21T17:12:00-00:00</lastmod>
+<lastmod>2014-06-01T15:14:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/tag/licitaciones.html</loc>
-<lastmod>2014-05-30T12:22:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://blog.oppten.com/tag/contratos.html</loc>
-<lastmod>2014-05-30T12:22:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://blog.oppten.com/tag/noticias.html</loc>
-<lastmod>2014-06-01T11:36:00-00:00</lastmod>
+<lastmod>2014-06-01T15:14:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/tag/oportunidades.html</loc>
-<lastmod>2014-05-30T12:22:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://blog.oppten.com/tag/negocios.html</loc>
-<lastmod>2014-05-30T12:22:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://blog.oppten.com/tag/2014.html</loc>
-<lastmod>2014-06-01T11:36:00-00:00</lastmod>
+<lastmod>2014-06-01T15:14:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -201,7 +173,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.oppten.com/tag/mayo.html</loc>
-<lastmod>2014-06-01T11:36:00-00:00</lastmod>
+<lastmod>2014-06-01T15:14:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -215,7 +187,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.oppten.com/author/nicolas-bohorquez.html</loc>
-<lastmod>2014-06-01T11:36:00-00:00</lastmod>
+<lastmod>2014-06-01T15:14:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
