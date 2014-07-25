@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.oppten.com/index.html</loc>
-<lastmod>2014-07-07T11:49:46-00:00</lastmod>
+<lastmod>2014-07-25T17:52:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/archives.html</loc>
-<lastmod>2014-07-07T11:49:46-00:00</lastmod>
+<lastmod>2014-07-25T17:52:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/tags.html</loc>
-<lastmod>2014-07-07T11:49:46-00:00</lastmod>
+<lastmod>2014-07-25T17:52:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/categories.html</loc>
-<lastmod>2014-07-07T11:49:46-00:00</lastmod>
+<lastmod>2014-07-25T17:52:29-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.oppten.com/toppten-semana-30-2014.html</loc>
+<lastmod>2014-07-25T17:40:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -159,7 +166,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.oppten.com/category/points.html</loc>
-<lastmod>2014-07-04T13:46:00-00:00</lastmod>
+<lastmod>2014-07-25T17:40:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -173,7 +180,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.oppten.com/tag/toppten.html</loc>
-<lastmod>2014-07-04T13:46:00-00:00</lastmod>
+<lastmod>2014-07-25T17:40:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -187,14 +194,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.oppten.com/tag/licitaciones.html</loc>
-<lastmod>2014-07-04T13:46:00-00:00</lastmod>
+<lastmod>2014-07-25T17:40:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.oppten.com/tag/oportunidades.html</loc>
-<lastmod>2014-07-04T13:46:00-00:00</lastmod>
+<lastmod>2014-07-25T17:40:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -222,7 +229,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.oppten.com/author/nicolas-bohorquez.html</loc>
-<lastmod>2014-07-04T13:46:00-00:00</lastmod>
+<lastmod>2014-07-25T17:40:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
